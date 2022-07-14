@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hariprasad
-Python, MySQL
+- Python, MySQL
 
 <!---
 hariprasadzx/hariprasadzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
