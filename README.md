@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @hariprasad
-- Ik Python and MySQL
-- Here you'll find answers for basics and medium level programs and some forked Android DeviceTree's.
+- 👋 Hi, I’m Hariprasad R
+- Go have a look at my repos :)
 
 <!---
 hariprasadzx/hariprasadzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
