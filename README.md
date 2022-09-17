@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Hariprasad R
-- Go have a look at my repos :)
+- 👋 Hi, I’m Hariprasad
 
 <!---
 hariprasadzx/hariprasadzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
