@@ -17,5 +17,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hariprasadzx&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=hariprasadzx&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
